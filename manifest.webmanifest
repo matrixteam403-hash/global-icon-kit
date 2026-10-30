@@ -1,0 +1,13 @@
+{
+  "name": "Global Icon Kit",
+  "short_name": "Icon Kit",
+  "description": "Open-source icons in two complete packs (Regular and Solid), SVG and PNG",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "lang": "en",
+  "dir": "ltr",
+  "background_color": "#111214",
+  "theme_color": "#111214",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
